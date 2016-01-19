@@ -1,8 +1,0 @@
-{
-	"feature": {
-		"name": "Optifine",
-		"description": "Minecraft optimization mod designed to allow minecraft to run faster and look better with full support for HD textures and many options",
-		"recommendation": "starred",
-		"selected": true
-	}
-}
