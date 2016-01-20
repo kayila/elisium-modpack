@@ -1,0 +1,1 @@
+http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.7.47/CodeChickenCore-1.7.10-1.0.7.47-universal.jar
