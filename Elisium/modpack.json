@@ -2,7 +2,23 @@
   "name" : "Elisium",
   "title" : "Elisium",
   "gameVersion" : "1.7.10",
-  "features" : [ ],
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Mine Little Pony",
+        "description" : "Ponify your world!",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/mod_minelp_1.7.10.1_mc1.7.10.litemod",
+          "mods/voxelcommon-2.3.1.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
   "userFiles" : {
     "include" : [
       "options.txt",
