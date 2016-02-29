@@ -19,3 +19,5 @@ mods.thaumcraft.Research.addPrereq("BATBOX", "HUNGRYCHEST", false);
 mods.thaumcraft.Research.setConcealed("BATBOX", false);
 mods.thaumcraft.Research.refreshResearchRecipe("BATBOX");
 
+// mmmmmm... The 'other' white meat....
+furnace.addRecipe(<witchery:ingredient:51>*12, <GraveStone:Corpse>);
