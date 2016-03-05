@@ -1,1 +1,1 @@
-https://github.com/AtomicStryker/github.io/raw/master/files/1.7.10/PetBat-1.7.10.jar
+https://github.com/AtomicStryker/github.io/raw/a625f548b422a82ac25e5066b7032548a395471c/files/1.7.10/PetBat-1.7.10.jar
