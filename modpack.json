@@ -1,7 +1,7 @@
 {
-  "name" : "Elisium",
-  "title" : "Elisium",
-  "gameVersion" : "1.7.10",
+  "name" : "Elisium18",
+  "title" : "Elisium18",
+  "gameVersion" : "1.8.9",
   "features" : [
     {
       "properties" : {
@@ -12,8 +12,7 @@
       },
       "files" : {
         "include" : [
-          "mods/mod_minelp_1.7.10.1_mc1.7.10.litemod",
-          "mods/voxelcommon-2.3.1.jar"
+          "mods/mod-minelittlepony-1.8.9.1-mc1.8.9.litemod"
         ],
         "exclude" : [ ]
       }

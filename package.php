@@ -1,11 +1,11 @@
 <?php
 
 $packages[] = array(
-    'name' => 'Elisium',
-    'title' => 'Elisium',
+    'name' => 'Elisium18',
+    'title' => 'Elisium18',
     'version' => 'VERSION',
     'priority' => 0,
-    'location' => 'modpacks/elisium.json',
+    'location' => 'modpacks/elisium18.json',
 );
 
 ?>

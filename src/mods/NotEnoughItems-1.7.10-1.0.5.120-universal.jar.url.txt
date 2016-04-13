@@ -1,1 +1,0 @@
-http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.5.120/NotEnoughItems-1.7.10-1.0.5.120-universal.jar
